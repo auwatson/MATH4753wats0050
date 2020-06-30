@@ -1,0 +1,13 @@
+Package: MATH4753wats0050
+Type: Package
+Title: Functions for MATH4573
+Version: 0.1.0
+Author: Austin Watson
+Maintainer: Austin Watson <auwatson@ou.edu>
+Description: Contains functions used for various assignments and labs in MATH4753.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)
