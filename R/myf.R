@@ -3,7 +3,7 @@
 #' Takes a vector and returns a vector
 #' of squared components
 #'
-#' @param x
+#' @param x vector of values
 #'
 #' @return a Vector of squared components
 #' @export

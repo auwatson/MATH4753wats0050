@@ -7,8 +7,8 @@
 \format{
 A data frame with 15 rows and 2 variables:
 \describe{
-  \item{distance}{distance the fire spread in miles}
-  \item{damage}{damage done in millions}
+  \item{DISTANCE}{distance the fire spread in miles}
+  \item{DAMAGE}{damage done in millions}
   ...
 }
 }

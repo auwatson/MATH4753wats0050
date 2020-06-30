@@ -3,7 +3,7 @@
 #' @param n sample size
 #' @param iter iter
 #' @param lambda probability
-#' @param ...
+#' @param ... extra arguments for plot
 #'
 #' @return a plot of the poisson distibution
 #' @export

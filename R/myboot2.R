@@ -4,8 +4,8 @@
 #' @param x sample
 #' @param fun which function to sample
 #' @param alpha confidence interval = 1-a
-#' @param cx
-#' @param ...
+#' @param cx scale of graph
+#' @param ... extra arguments for plot
 #'
 #' @return a list of info about the plot and a histogram
 #' @export

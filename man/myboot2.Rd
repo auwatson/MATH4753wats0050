@@ -15,7 +15,9 @@ myboot2(iter = 10000, x, fun = "mean", alpha = 0.05, cx = 1.5, ...)
 
 \item{alpha}{confidence interval = 1-a}
 
-\item{...}{}
+\item{cx}{scale of graph}
+
+\item{...}{extra arguments for plot}
 }
 \value{
 a list of info about the plot and a histogram

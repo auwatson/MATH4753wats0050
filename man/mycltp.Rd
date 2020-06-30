@@ -13,7 +13,7 @@ mycltp(n, iter, lambda = 10, ...)
 
 \item{lambda}{probability}
 
-\item{...}{}
+\item{...}{extra arguments for plot}
 }
 \value{
 a plot of the poisson distibution
